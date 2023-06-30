@@ -1,7 +1,10 @@
 AnimetedDrawer mobile app built with React-native
 Created a drawer menu with an animated screens
 
-![ezgif com-video-to-gif](https://github.com/aghasi89/AnimetedDrawer/assets/3714495/d09514c9-5f19-4787-8519-e5c2202cb386)
+
+https://github.com/aghasi89/AnimetedDrawer/assets/3714495/d40fd85c-8fd0-41c4-a8c6-9d12380a5155
+
+
 
 This project have stracture
 
