@@ -13,16 +13,16 @@ This project have stracture
 
 **Drawer Navigation
 **    
-	   Start  
+> 	   Start  
 		 TabNavigation
 				 Home
 			 	 Stack Navigation
  					 Stack1
 					Stack2
 			 	Settings
-	 	 YourCard
+	 	YourCard
 		Favorites
-	  	YourOrder
+	 	YourOrder
 
 `Install tools`: 
 
@@ -55,3 +55,4 @@ or
 npx react-native run-ios 
 ```
 
+````
