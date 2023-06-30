@@ -14,16 +14,15 @@ This project have stracture
 **Drawer Navigation
 **    
 	   Start  
--   TabNavigation
-			 Home
-			  Stack Navigation
-                    Stack1
-                    Stack2
-            Settings
-           
-	    YourCard
-	     Favorites
-	  YourOrder
+		 TabNavigation
+				 Home
+			 	 Stack Navigation
+ 					 Stack1
+					Stack2
+			 	Settings
+	 	 YourCard
+		Favorites
+	  	YourOrder
 
 `Install tools`: 
 
