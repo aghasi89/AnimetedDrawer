@@ -8,17 +8,22 @@ https://github.com/aghasi89/AnimetedDrawer/assets/3714495/d40fd85c-8fd0-41c4-a8c
 
 This project have stracture
 
-Drawer Navigation
-    Start
-        TabNavigation
-            Home
-                Stack Navigation
+
+------------
+
+**Drawer Navigation
+**    
+	   Start  
+-   TabNavigation
+			 Home
+			  Stack Navigation
                     Stack1
                     Stack2
             Settings
-    YourCard
-    Favorites
-    YourOrder
+           
+	    YourCard
+	     Favorites
+	  YourOrder
 
 `Install tools`: 
 
